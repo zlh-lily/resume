@@ -15,7 +15,7 @@ body {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 20px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;
@@ -41,7 +41,7 @@ body {
 }
 
 .button:hover span {
-  padding-right: 25px;
+  padding-right: 15px;
 }
 
 .button:hover span:after {
