@@ -5,10 +5,13 @@ body {
    background-color:#CCCCCC;
  }
 
+ .toubu {
+  color: hwb(221 10% 4%);
+ }
+
  .button {
   display: inline-block;
   border-radius: 4px;
-  background-color: #f4511e;
   border: none;
   color: #FFFFFF;
   text-align: center;
